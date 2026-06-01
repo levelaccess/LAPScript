@@ -4,7 +4,7 @@ LAPScript is a Tampermonkey userscript that enhances the Level Access Platform m
 
 ## Script File
 
-- `LAPScript.js`
+- `https://raw.githubusercontent.com/levelaccess/LAPScript/refs/heads/main/LAPScript.js`
 
 ## What It Adds
 
@@ -12,9 +12,12 @@ LAPScript is a Tampermonkey userscript that enhances the Level Access Platform m
 - Inline screenshot/attachment previews in report tables.
 - Quick links for opening items in new tabs.
 - Edit-in-dialog workflow for findings.
+!["Edit findings without leaving the screen"](lapscript-edit.png)
 - Lightbox viewer for finding images.
+!["inline images with lightbox"](lapscript-lightbox.webp)
 - Copy table content in rich HTML format for spreadsheet workflows.
 - Extra controls such as Refresh, Copy Table, Highlight Rows, and Expand/Collapse Table.
+!["Highlighting of rows"](lapscript-highlight-rows.png)
 
 ## Requirements
 
@@ -27,11 +30,14 @@ LAPScript is a Tampermonkey userscript that enhances the Level Access Platform m
 
 ## Installation
 
-1. Open Tampermonkey.
-2. Create a new script.
-3. Paste in the contents of `LAPScript.js`.
-4. Save and enable the script.
-5. Open a supported Level Access platform page.
+1. Open Tampermonkey and go to Dashboard.
+!["Locate the tampermonkey icon in your bookmarks bar, then navigate down to Dashboard"](tamperMonkey-step1.png)
+2. Open the Utilities tab.
+3. Locate "Import from URL"
+!["Navigate to Import from URL"](tampermonkey-step2.png)
+4. Paste in `https://raw.githubusercontent.com/levelaccess/LAPScript/refs/heads/main/LAPScript.js`.
+5. Save and enable the script.
+6. Open a supported Level Access platform page.
 
 ## Versioning
 
