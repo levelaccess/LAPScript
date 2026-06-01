@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1.6
 // @description  Level Access Platform Script
-// @author       Ashley Callahan
+// @author       Level Access
 // @match        *.essentia11y.com/*
 // @match        *.levelaccess.io/*
 // @match        *.essentialaccessibility.com/*
