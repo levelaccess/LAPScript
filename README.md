@@ -4,7 +4,7 @@ LAPScript is a Tampermonkey userscript that enhances the Level Access Platform m
 
 ## Script File
 
-- `https://raw.githubusercontent.com/levelaccess/LAPScript/refs/heads/main/LAPScript.js`
+- `https://raw.githubusercontent.com/levelaccess/LAPScript/main/LAPScript.js`
 
 ## What It Adds
 
@@ -35,13 +35,14 @@ LAPScript is a Tampermonkey userscript that enhances the Level Access Platform m
 2. Open the Utilities tab.
 3. Locate "Import from URL"
 !["Navigate to Import from URL"](tampermonkey-step2.png)
-4. Paste in `https://raw.githubusercontent.com/levelaccess/LAPScript/refs/heads/main/LAPScript.js`.
+4. Paste in `https://raw.githubusercontent.com/levelaccess/LAPScript/main/LAPScript.js`.
 5. Save and enable the script.
 6. Open a supported Level Access platform page.
 
 ## Versioning
 
 - Current script header version: `1.1.6`
+- TamperMonkey will automatically download updates to the script from the `https://raw.githubusercontent.com/levelaccess/LAPScript/main/LAPScript.js` source.
 
 ## Authors
 
