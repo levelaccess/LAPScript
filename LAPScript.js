@@ -7,6 +7,8 @@
 // @match        *.essentia11y.com/*
 // @match        *.levelaccess.io/*
 // @match        *.essentialaccessibility.com/*
+// @updateURL    https://raw.githubusercontent.com/levelaccess/LAPScript/refs/heads/main/LAPScript.js
+// @downloadURL  https://raw.githubusercontent.com/levelaccess/LAPScript/refs/heads/main/LAPScript.js
 // @grant        GM_addStyle
 // @require      https://code.jquery.com/jquery-4.0.0.min.js
 // ==/UserScript==
